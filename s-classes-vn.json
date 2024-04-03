@@ -1,0 +1,41 @@
+{
+  "title": "The S-Classes That I Raised",
+  "description": "",
+  "artist": "SERI, BIWAN",
+  "author": "GEUNSEO",
+  "cover": "https://image-comic.pstatic.net/webtoon/784248/thumbnail/thumbnail_IMAG21_20a8aca7-23d3-4bc0-9916-a31ebc884ca8.jpg",
+  "chapters": {
+    "128": {
+      "title": "Tránh vỏ dưa gặp vỏ dừa (1)",
+      "volume": "",
+      "last_updated": "1712125397",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/stoBUsX/"
+      }
+    },
+    "129": {
+      "title": "Tránh vỏ dưa gặp vỏ dừa (2)",
+      "volume": "",
+      "last_updated": "1712125470",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LWSOYqA/"
+      }
+    },
+    "130": {
+      "title": "Tuyết phủ",
+      "volume": "",
+      "last_updated": "1712125488",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LW66IeC/"
+      }
+    },
+    "131": {
+      "title": "Viếng thăm nhà",
+      "volume": "",
+      "last_updated": "1712125511",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/P68tZfF/"
+      }
+    }
+  }
+}
